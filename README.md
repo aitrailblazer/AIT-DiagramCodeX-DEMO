@@ -10,6 +10,10 @@
    - [Diagram to Code Pipeline](#diagram-to-code-pipeline)
 6. [Join Our Journey](#join-our-journey)
 
+[Link to AIT-DiagramCodeX PDF](https://github.com/aitrailblazer/AIT-DiagramCodeX-DEMO/blob/main/AIT-DiagramCodeX.pdf)
+
+6. [Join Our Journey]
+
 # Welcome to AIT-DiagramCodeX
 
 AITDiagramCodeX is a breakthrough solution from AITrailblazer that fluently converts between natural language, diagrams, and code. Utilizing state-of-the-art AI technology, DiagramCodeX serves as a link between these platforms, paving the way for a streamlined workflow for developers, engineers, and data scientists. Enter a new phase of precision and productivity with AIT DiagramCodeX.
