@@ -1,4 +1,10 @@
 # Welcome to AIT-DiagramCodeX
+
+![AIT-DiagramCodeX](./AIT-DiagramCodeX-logo.png)
+
+[Link to AIT-DiagramCodeX PDF](https://github.com/aitrailblazer/AIT-DiagramCodeX-DEMO/blob/main/AIT-DiagramCodeX.pdf)
+
+
 # Table of Contents
 
 1. [Welcome to AIT-DiagramCodeX](#welcome-to-ait-diagramcodex)
@@ -10,9 +16,6 @@
    - [Diagram to Code Pipeline](#diagram-to-code-pipeline)
 6. [Join Our Journey](#join-our-journey)
 
-![AIT-DiagramCodeX](./AIT-DiagramCodeX-logo.png)
-
-[Link to AIT-DiagramCodeX PDF](https://github.com/aitrailblazer/AIT-DiagramCodeX-DEMO/blob/main/AIT-DiagramCodeX.pdf)
 
 6. [Join Our Journey]
 
