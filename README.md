@@ -208,8 +208,50 @@ The second stage, named "Pipeline Diagram to Go," builds upon the first, morphin
 - **Code Manifestation** (diagram_go_valid_ai03 output): The final, vetted Go code is then presented to you, marking the completion of your journey from ideation to coding with AIT-DiagramCodeX.
 
 
-## 5) AIT-DiagramCodeX: Trailblazing the Path of Innovation with AI-Enabled Visualization and Code Generation
+## 5) AIT-DiagramCodeX Architecture
 
+The diagram shows the overall system architecture and key components.
+
+
+On the left is the Developer, representing the engineering team that builds and maintains the platform. They use tools like:
+
+
+- Visual Studio Code for coding
+- Docker for containerization and deployment
+- Bash and Makefiles for build automation
+
+
+In the middle is the OpenAPI Web Service hosted on Google Cloud Platform (GCP). This includes:
+
+
+- Cloud Load Balancing to distribute incoming requests across regions. Provides high availability.
+- Cloud Armor for DDoS protection and web application firewall.
+- Auth for authentication and access control.
+- API Gateway implementing the OpenAPI specification. Handles request routing, CORS, quotas.
+- CloudRun hosting the main AIT-DiagramCodeX application code. Serverless compute.
+- Quotas to manage usage and prevent abuse.
+
+At the top are the Users accessing the system via the OpenAPI or gRPC APIs. Could be end-user apps or other services integrating with the platform.
+
+On the right is Google Vertex AI PaLM providing natural language processing capabilities through its foundation model API.
+
+The main request flow is:
+- Users send requests to Cloud Load Balancing.
+- Requests pass through Cloud Armor and Auth security layers.
+- The API Gateway handles routing and quotas.
+- Requests are forwarded to the CloudRun application code.
+- The app uses Vertex AI PaLM for NLP processing.
+- Responses return via the gateway back to users.
+
+The key benefits of this cloud-native, API-driven architecture are:
+
+- Secure - Multiple layers of protection.
+- Scalable - Auto-scaling and high availability.
+- Performant - Caching, distributed load balancing.
+- Reliable - Self-healing infrastructure.
+- Flexible - Easy integration and updates.
+
+## 5) AIT-DiagramCodeX: Trailblazing the Path of Innovation with AI-Enabled Visualization and Code Generation
 
 Slide:
 
