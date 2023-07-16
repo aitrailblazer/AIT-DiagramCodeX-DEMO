@@ -2,7 +2,7 @@
 
 ![AIT-DiagramCodeX](./AIT-DiagramCodeX-logo.png)
 
-[Link to AIT-DiagramCodeX PDF](https://github.com/aitrailblazer/AIT-DiagramCodeX-Final.pdf)
+[Link to AIT-DiagramCodeX PDF](https://github.com/aitrailblazer/AIT-DiagramCodeX-DEMO/blob/main/AIT-DiagramCodeX-Final.pdf)
 
 
 # Table of Contents
