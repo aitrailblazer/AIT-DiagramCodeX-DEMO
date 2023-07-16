@@ -36,28 +36,6 @@
 ## 1) Introducing AIT-DiagramCodeX - Revolutionizing Diagramming, Coding, and Documentation
 Aye-Tee - Diagram - Code - Ex
 
-Slide:
-
-:::::::::::::::::::::::::::::::
-
-```bash
-Revolutionizing Diagramming, Coding, and Documentation
-- Misalignment from poor documentation causes delays
-- Solutions lack enterprise-scale capabilities
-AIT-DiagramCodeX is different:
-Automatic code generation from diagrams
-- Real-time diagram and code syncing
-- Natural language to diagram conversion
-- Democratized visualization
-- Enhanced workflows and collaboration
-- Massive time savings
-
-Purpose-built to transform documentation, diagramming, and coding workflows enterprise-wide.
-```
-
-:::::::::::::::::::::::::::::::
-
-
 We've all experienced it - sitting in a meeting when a complex workflow is verbally explained, only to realize later everyone walked away with a different interpretation. This kind of misalignment is all too common in large organizations.
 
 Effective documentation is critical to avoiding these issues, yet often falls short. Tribal knowledge silos, inconsistent diagrams, outdated specifications - these pitfalls lead to fragmented understanding across teams and frustratingly slow workflows.
@@ -98,35 +76,6 @@ That's why I built AIT-DiagramCodeX. It revolutionizes diagramming, coding, and 
 Don't let communication breakdowns continue plaguing your organization's efficiency and alignment. Transform complex concepts into intuitive visuals for all with AIT-DiagramCodeX - purpose-built to meet the scale and needs of today's enterprises.
 
 ## 2) Navigating the Competitive Landscape
-
-Slide:
-
-:::::::::::::::::::::::::::::::
-
-```bash
-Surveying the Competitive Landscape
-- AIT-DiagramCodeX: Natural Language ↔ Diagrams ↔ Code
-- Whimsical: Provides quick and user-friendly flowcharts
-- Microsoft Visio: Comes with an extensive range of templates and integrates seamlessly with Office 
-- Lucidchart: Facilitates real-time collaboration on cloud-based diagrams
-- AWS Cloud Diagrams: Specializes in AWS architecture diagrams
-- Hava.io: Generates automated diagrams for cloud infrastructure
-- Draw.io: Offers basic diagramming at no cost
-- Creately: Enables easy diagramming in the cloud environment
-- Cacoo: Promotes effective team collaboration on diagrams
-- Gliffy: Delivers an intuitive interface for simplified diagram creation
-
-Launching AIT-DiagramCodeX - the paradigm-shifter:
-- Harnesses the power of NLP for seamless synchronization between Natural Language, Diagrams, and Code
-- Embodies cutting-edge automation and integration capabilities
-- Infused with innovative features that leverage AI technology
-- Transforms workflows, augments precision, and supercharges productivity
-
-AIT-DiagramCodeX is here to redefine the norms of diagramming tools.
-```
-
-:::::::::::::::::::::::::::::::
-
 | Features/Tools | AIT-DiagramCodeX | Whimsical | Microsoft Visio | Lucidchart | AWS Cloud Diagrams | Hava.io | Draw.io | Creately | Cacoo | Gliffy |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Key Differentiator** | Natural Language ↔ Diagram ↔ Code Capability | Simple, fast flowcharts | Extensive templates & Office integration | Comprehensive diagramming in the cloud | AWS focused diagrams | Automated cloud diagrams | Free and simple diagrams | Easy diagramming in the cloud | Collaborative diagramming | Intuitive diagramming |
@@ -155,28 +104,6 @@ AIT-DiagramCodeX is here to redefine the norms of diagramming tools.
 
 
 ## 3) The AIT-DiagramCodeX Advantage: Transforming Enterprise Workflows
-
-Slide:
-
-:::::::::::::::::::::::::::::::
-
-```bash
-The AIT-DiagramCodeX Advantage
-
-Transforming Enterprise Workflows
-
-- Intuitive 4-part UI for easy diagramming
-- Seamlessly integrates with workflows
-- Powered by Google Vertex AI PaLM for advanced NLP
-- Built on Google Cloud for robust enterprise usage
-- Enhanced collaboration capabilities
-- Rapid deployment timelines
-
-Legacy tools can't meet enterprise visualization needs. Transform workflows with AIT-DiagramCodeX, purpose-built on Google Cloud and Vertex AI PaLM.
-```
-
-:::::::::::::::::::::::::::::::
-
 Legacy tools and manual processes simply can't meet the visualization needs of today's complex enterprise environments. AIT-DiagramCodeX is different. Purpose-built for enterprise scale, our solution uniquely combines:
 
 **Intuitive UI**
@@ -207,25 +134,6 @@ Don't settle for fragmented understanding and manual documentation processes. Tr
 
 ## 4) Revolutionizing Diagrams: Our Four-Part User Interface
 
-Slide:
-
-:::::::::::::::::::::::::::::::
-
-```bash
-Revolutionizing Diagrams
-Our Four-Part User Interface
-- Interactive Input Panel - Add natural language descriptions
-- ISmart Transformation Pane - AI converts text to diagrams
-- IVisual Output Panel - View rendered PNG diagram
-- ICode Generation Panel - Generate Go code from diagrams
-
-Streamlined workflow:
-NL ↔ Diagrams ↔ Code
-
-Everything stays in sync automatically.
-```
-
-:::::::::::::::::::::::::::::::
 
 Unveiling our unique, interactive four-part user interface that's designed to streamline your workflow:
 
@@ -236,28 +144,6 @@ Unveiling our unique, interactive four-part user interface that's designed to st
 
 ## 5) Mastering Complexity: Our Intelligent Pipelines
 
-
-Slide:
-
-:::::::::::::::::::::::::::::::
-
-```bash
-Mastering Complexity
-Our Intelligent Pipelines
-Natural Language to Diagram:
-- Idea Genesis - AI transforms text to initial diagram
-- Quality Assurance - Validates diagram accuracy
-- Visualization - Renders final diagram
-Diagram to Code:
-- Code Origination - Analyzes diagram to generate code structure
-- Code Verification - Validates code alignment
-- Code Manifestation - Presents final Go code
-
-Advanced pipelines ensure optimized transitions:
-NL ↔ Diagrams ↔ Code
-```
-
-:::::::::::::::::::::::::::::::
 
 Underpinning AIT-DiagramCodeX's breakthrough technology is our intricate yet efficient pipeline system. This twin-pipeline structure ensures an optimized transition from natural language to diagram and finally to code.
 
@@ -281,28 +167,6 @@ The second stage, named "Pipeline Diagram to Go," builds upon the first, morphin
 ## 6) AIT-DiagramCodeX Architecture
 
 ![AIT-DiagramCodeX Architecture](AIT-DiagramCodeX_Architecture.png)
-
-Slide:
-
-:::::::::::::::::::::::::::::::
-
-```bash
-AIT-DiagramCodeX Architecture
-- Developer tools: VS Code, Docker, Bash
-- OpenAPI web service on GCP:
-   - Load balancing, security, API gateway, CloudRun app, quotas
-- Users access via API
-- Google Vertex AI PaLM for NLP
-
-Key Benefits:
-- Secure
-- Scalable
-- Performant
-- Reliable
-- Flexible
-```
-
-:::::::::::::::::::::::::::::::
 
 The diagram shows the overall system architecture and key components.
 
@@ -349,22 +213,6 @@ The key benefits of this cloud-native, API-driven architecture are:
 
 Slide:
 
-:::::::::::::::::::::::::::::::
-
-```bash
-Trailblazing Innovation
-AI-Enabled Visualization and Coding
-- Harnesses Google Vertex AI PaLM for advanced NLP
-- Generates deployable Go code from diagrams
-- Built on Google Cloud for collaboration
-- Ingenious pipelines optimize NL > Diagrams > Code
-- All-in-one platform simplifies workflows
-- Intuitive 4-part interface boosts productivity
-
-AIT-DiagramCodeX uniquely bridges ideation and execution, transforming workflows with AI-powered visualization and coding.
-```
-
-:::::::::::::::::::::::::::::::
 
 AIT-DiagramCodeX takes a leap forward in the industry with its unique approach to workflow optimization, marked by:
 
@@ -380,24 +228,6 @@ AIT-DiagramCodeX, with its advanced AI integration and unique functionalities, i
 ## 8) Standout Features of AIT-DiagramCodeX: Elevating Your Workflow:
 
 
-Slide:
-
-:::::::::::::::::::::::::::::::
-
-```bash
-Standout Features
-Elevating Your Workflow
-- Fluent NLP - Complexity into simplicity
-- Automation - API integration boosts productivity
-- Democratization - Accessible to all users
-- Elevates workflow efficiency and alignment
-- Unique blend of capabilities
-
-AIT-DiagramCodeX uniquely bridges ideation and execution, transforming workflows with AI-powered visualization and coding.
-```
-
-:::::::::::::::::::::::::::::::
-
 - **Fluent Natural Language Processing**: Our tool innovatively transforms user descriptions into insightful diagrams and proficient code, distilling complexity into simplicity. This process accelerates understanding and eases communication across teams.
 - **Automated Efficiency**: Boasting API capabilities, AIT-DiagramCodeX seamlessly integrates into your existing ecosystem, streamlining operations and boosting productivity. This feature gives us an edge over our competitors.
 - **Democratizing Access**: We break barriers by catering to a diverse audience. AIT-DiagramCodeX is designed for everyone, whether you're a technical professional requiring detailed workflows, or a non-technical user looking to understand and explain processes better.
@@ -407,28 +237,6 @@ AIT-DiagramCodeX offers a unique blend of features tailored to elevate your work
 ## 9) Potential Users: Expanding the Scope of AIT-DiagramCodeX
 
 Slide:
-
-:::::::::::::::::::::::::::::::
-
-```bash
-Broad Appeal
-Expanding Our User Base
-- Software engineers and developers
-- Product managers
-- Business analysts
-- Educators and students
-- Technical writers
-- Designers and UX professionals
-- Executives and decision makers
-- Data scientists and researchers
-- QA engineers
-- Marketers
-- Consultants and advisors
-
-AIT-DiagramCodeX appeals to a wide range of professionals by transforming complex systems into easy-to-understand diagrams and code.
-```
-
-:::::::::::::::::::::::::::::::
 
 - **Software Engineers & Developers**: AIT-DiagramCodeX can simplify the process of communicating complex architectures and logic flows within their teams or to external stakeholders.
 - **Product Managers**: By turning abstract concepts into tangible diagrams, product managers can better convey their vision to the engineering teams.
@@ -448,29 +256,6 @@ AIT-DiagramCodeX is here to transform your words into diagrams, fostering clarit
 ## 10) Charting the Path for Sustainable Growth: Monetizing AIT-DiagramCodeX
 
 
-Slide:
-
-:::::::::::::::::::::::::::::::
-
-```bash
-Broad Appeal
-Expanding Our User Base
-- Software engineers and developers
-- Product managers
-- Business analysts
-- Educators and students
-- Technical writers
-- Designers and UX professionals
-- Executives and decision makers
-- Data scientists and researchers
-- QA engineers
-- Marketers
-- Consultants and advisors
-
-AIT-DiagramCodeX appeals to a wide range of professionals by transforming complex systems into easy-to-understand diagrams and code.
-```
-
-:::::::::::::::::::::::::::::::
 
 - **Freemium Model**: AIT-DiagramCodeX will offer its foundational features for free, promoting widespread adoption. Users seeking an enhanced experience, including advanced customization options and priority customer support, can opt for a premium subscription.
 - **Enterprise Solutions**: Recognizing the unique needs of businesses, we'll provide tailored packages for organizations. These include features like bulk user management, priority access to new features, and dedicated support to ensure seamless operations.
